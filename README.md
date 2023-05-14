@@ -5,6 +5,7 @@ So in this assignment, you will be working with a tabular dataset. The dataset i
 
 **You are encouraged to use the Google Colab environment for this assignment to run your experiments through Jupiter Notebook.
 **
+
 **Steps:**
 
 **✔️ Meme competition [optional]:**
